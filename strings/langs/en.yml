@@ -210,9 +210,9 @@ ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} an
 
 # Song
 song_1 : "You can download Music or Video from YouTube only in private chat. Please start me in private chat."
-song_2 : "**Usage:**\n\n/song [Music Name] or [Youtube Link]"
+song_2 : "**Kullanim :**\n\n/bul [Muzik Adi] veya [Youtube Link]"
 song_3 : "Live Link Detected. I am not able to download live youtube videos. "
-song_4 : "**🔗Title:**- {0}\n\nSelect the type in which you want to download."
+song_4 : "**🔗Title :**- {0}\n\nSelect the type in which you want to download."
 song_5 : "Not a valid Youtube Link"
 song_6 : "Getting Formats.. \n\nPlease Wait.."
 song_7 : "Failed to get available formats for the video. Please try any other track."
@@ -246,22 +246,22 @@ UNBAN_BUTTON : "🗑 Unban Assistant"
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
+S_B_1 : "🗒 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌"
 S_B_2 : "🔧 Settings"
 S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_5 : "✚ 𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_7 : "👤 𝖮𝗐𝗇𝖾𝗋"
+S_B_8 : "🔎 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 ."
 
 #Help 
 H_B_1 : "𝖡𝖺𝗌𝗂𝗍 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋"
-H_B_2 : "🇹🇷"
-H_B_3 : "🇹🇷"
-H_B_4 : "🇹🇷"
-H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_2 : "𝖦𝗋𝗈𝗎𝗉"
+H_B_3 : "𝖪𝖺𝗇𝖺𝗅"
+H_B_4 : "𝖮𝗐𝗇𝖾𝗋"
+H_B_5 : "𝖬𝖾𝗇𝗎"
+H_B_6 : "𝖲𝗎𝖽𝗈 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋"
 
 #PlayMode
 PM_B_1 : "DirectPlay"
@@ -317,7 +317,7 @@ ST_B_26 : "🗑 Command Clean"
 ST_B_27 : "🧑‍🚀 Suggestion Mode"
 
 #Song
-SG_B_1 : "↗️ Open Private Chat"
+SG_B_1 : "↗️ 𝖫𝖾𝗍'𝖦𝗈"
 SG_B_2 : "🔊 Audio"
 SG_B_3 : "🎥 Video"
 
