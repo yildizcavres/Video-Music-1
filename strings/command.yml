@@ -90,9 +90,9 @@ REBOOT_COMMAND : ["reboot"]
 AUTOEND_COMMAND : ["autoend"]
 
 #Private Bot Mode
-AUTHORIZE_COMMAND : ["auth"]
-UNAUTHORIZE_COMMAND : ["unauth"]
-AUTHORIZED_COMMAND : ["authlist"]
+AUTHORIZE_COMMAND : ["agjjh"]
+UNAUTHORIZE_COMMAND : ["jkhjjth"]
+AUTHORIZED_COMMAND : ["hjjk"]
 
 #Block Users Command
 BLOCK_COMMAND : ["block"]
