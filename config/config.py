@@ -44,7 +44,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Sohbet Music")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5053767281").split())
+    map(int, getenv("OWNER_ID", "5180774841").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -66,10 +66,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", None
-)  # Example:- https://t.me/StarBotKanal/65
+)  # Example:- https://t.me/StarBotKanal
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
-)  # Example:- https://t.me/SohbetGoVip
+)  # Example:- https://t.me/SohbetGirdap
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
@@ -135,8 +135,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "AQAAuiLkD7vAcuVMCp4VC_a348H4wzmOV4aqt9qGzOZhIQLRcwzfSJQd9pFaRdtoI50vFX6UFbrK2sokpeYtMmgIoQbs2-wYcA8DIwUlTAWzZZ3JaawsPuZcoaser32i6xtyG_IU2xUxYMmV8IQjtPs_1IBdZ2gZDZujOjHOWRw_GT5CjXWDNir29B7uKLTurh27NKZtd1LKvGXFUWhjZHZnQCa7jk5c4BtSghJILn7pGmxvjGjfeUWQTnmmaH5jqc3UJariWw7yBUDPsQ92OYZwYtcvF9YFgHx9mBeD2DMu-VXPTZ95SHA-DaKKxnyI1azZYEf7R98gqvu4XaIISylHAAAAATzxcdEA")
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION", "BAAMyDbkeOdyhb_Y-cIgR2YVVfwbmnEFO8FL5hYwj56UC-cIytQ9mkcfBGTgo2nvE4yGLHXAr8RmKDh_1d00_SwXOnfU_WUzts65rEpLHOxv52RCXIVqVL4bbiWGgNeX95hTKzdfrY5RFKMa9uMxjGzPZ0QCUpEAWv4gAe1IAwXKE6RUd4-9CUGP83g-obE_4tjpa82nsI2q-gz64wjHYLZVxvXyzfk_pj2O65Hpasqjhb6hubyajDxCIoWlaQu0Xj0ey-f9n7nKnFCr8wm1S2zQzXoeT6E6tqEMvGTgbn9VucibvX9rPwuaWP2qOAbsfMN6ZeThWZu7AExl4zRBF79tAAAAAS06XnEA")
+STRING2 = getenv("STRING_SESSION2", "AQAAuiLkD7vAcuVMCp4VC_a348H4wzmOV4aqt9qGzOZhIQLRcwzfSJQd9pFaRdtoI50vFX6UFbrK2sokpeYtMmgIoQbs2-wYcA8DIwUlTAWzZZ3JaawsPuZcoaser32i6xtyG_IU2xUxYMmV8IQjtPs_1IBdZ2gZDZujOjHOWRw_GT5CjXWDNir29B7uKLTurh27NKZtd1LKvGXFUWhjZHZnQCa7jk5c4BtSghJILn7pGmxvjGjfeUWQTnmmaH5jqc3UJariWw7yBUDPsQ92OYZwYtcvF9YFgHx9mBeD2DMu-VXPTZ95SHA-DaKKxnyI1azZYEf7R98gqvu4XaIISylHAAAAATzxcdEA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
