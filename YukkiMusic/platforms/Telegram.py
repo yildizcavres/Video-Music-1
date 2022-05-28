@@ -56,16 +56,16 @@ class TeleAPI:
             file_name = file.file_name
             if file_name is None:
                 file_name = (
-                    "Telegram Audio File"
+                    "Star Müzik"
                     if audio
-                    else "Telegram Video File"
+                    else "Star Müzik"
                 )
 
         except:
             file_name = (
-                "Telegram Audio File"
+                "Star Müzik"
                 if audio
-                else "Telegram Video File"
+                else "Star Müzik"
             )
         return file_name
 
