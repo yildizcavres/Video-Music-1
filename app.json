@@ -25,7 +25,7 @@
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
+        "value": "false",
         "required": false
       },
       "BOT_TOKEN": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/MehmetAtes21/Video-Music",
         "required": true
       },
       "UPSTREAM_BRANCH": {
