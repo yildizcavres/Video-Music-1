@@ -69,7 +69,7 @@ SUPPORT_CHANNEL = getenv(
 )  # Example:- https://t.me/StarBotKanal
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
-)  # Example:- https://t.me/SohbetGirdap
+)  # Example:- https://t.me/StarBotDestek
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
@@ -165,7 +165,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://images.app.goo.gl/Xv2PaezYkiWW6MNd8")
+START_IMG_URL = getenv("START_IMG_URL", "https://images.app.goo.gl/m7A4WqcfYuQVg66u9")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
