@@ -1,15 +1,15 @@
 
-# Video Müzik Bot 🇹🇷
-- [Video Müzik Bot](https://github.com/MehmetAtes21/Video-Music) Video Müzik Bot .
+# Video Müzik 🇹🇷
+- [Github Video Müzik](https://github.com/MehmetAtes21/Video-Music-1) .
 
 # Support 
-- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
+- [Telegram Support Group](https://t.me/StarBotKanal) .
 
 ---
 
 ## Heroku Kurulum ⏳
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Video-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Video-Music-1)
 
 ---
 
