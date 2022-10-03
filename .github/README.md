@@ -1,5 +1,5 @@
 
-# Video Müzik 🇹🇷
+# Video Müzik 1🇹🇷
 - [Github Video Müzik](https://github.com/MehmetAtes21/Video-Music-1) .
 
 # Support 
