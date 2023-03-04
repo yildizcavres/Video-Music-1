@@ -1,11 +1,11 @@
 
 # Video Müzik 1🇹🇷
-- [Github Video Müzik](https://github.com/MehmetAtes21/Video-Music-1) .
+### - [Github Video Müzik](https://github.com/MehmetAtes21/Video-Music-1) .
 
 # Support 
-- [Telegram Support Group](https://t.me/StarBotKanal) .
+### - [Telegram Support](https://t.me/StarBotKanal) .
 
----
+-------------------------
 
 ## Heroku Kurulum ⏳
 
