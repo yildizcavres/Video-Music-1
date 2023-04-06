@@ -9,6 +9,8 @@
 
 HELP_1 = """✅**<u>𝖡𝖺𝗌𝗂𝗍 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋:</u>**
 
+➡️ sahip.. @cavres34 .. https://t.me/okyanussohbett
+
 » /bul > 𝖲𝖺𝗋𝗄𝗂 𝗂𝗇𝖽𝗂𝗋 .
 
 » /oynat > 𝖲𝖺𝗋𝗄𝗂𝗒𝗂 𝗈𝗒𝗇𝖺𝗍 .
@@ -38,21 +40,21 @@ HELP_1 = """✅**<u>𝖡𝖺𝗌𝗂𝗍 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋:</u>**
 
 HELP_2 = """✅<u>**𝖦𝗋𝗈𝗎𝗉 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @SohbetGirdap
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @okyanussohbett
 
 """
 
 
 HELP_3 = """✅<u>**𝖪𝖺𝗇𝖺𝗅 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @StarBotKanal
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @okyanussohbett
 
 """
 
 
 HELP_4 = """✅<u>**𝖮𝗐𝗇𝖾𝗋 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @Hayiboo
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @cavres34
 
 """
 HELP_5 = """🔰**<u>𝖲𝗎𝖽𝗈 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 :</u>**
