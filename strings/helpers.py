@@ -8,7 +8,9 @@
 # All rights reserved.
 
 HELP_1 = """✅ <u>𝖬𝗎̈𝗓𝗂𝗄 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 :</u>
+
 ➡️ sahip.. @cavres34 .. https://t.me/okyanussohbett
+
 » /vplay > 𝖵𝗂𝖽𝖾𝗈 𝗈𝗒𝗇𝖺𝗍 .
 » /oynat > 𝖲𝖺𝗋𝗄𝗂𝗒𝗂 𝗈𝗒𝗇𝖺𝗍 .
 » /durdur > 𝖲𝖺𝗋𝗄𝗂𝗒𝗂 𝖽𝗎𝗋𝖽𝗎𝗋 .
